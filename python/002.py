@@ -16,3 +16,15 @@ for i in range(line):
         total += ( (t-s)*p )
 
 print total
+
+"""
+Test case 1
+通過
+実行時間： 0.03 秒
+Test case 2
+通過
+実行時間： 0.02 秒
+Test case 3
+通過
+実行時間： 0.02 秒
+"""
